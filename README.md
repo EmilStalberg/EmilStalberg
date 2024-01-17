@@ -1,5 +1,5 @@
 
-I'm Emil Stålberg, a [Your Role/Title] passionate about playing football and games with my friends. Welcome to my GitHub profile!
+I'm Emil Stålberg, a soon to be certified network techincian passionate about playing football and games with my friends. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -17,7 +17,7 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- [Skill 1]
+- coding
 - [Skill 2]
 - [Skill 3]
 - ...
